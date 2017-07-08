@@ -12,7 +12,7 @@ import java.util.Scanner;
 				for(int i=0;i<s11.length-k;i++){
 					h+=s11[i]+"";
 				}
-				System.out.println(h);
+				System.out.println(Integer.valueOf(h));
 				sc.close();
 				
 		    }
